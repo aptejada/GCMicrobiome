@@ -11,9 +11,8 @@ Hence in this project, I aim to organize the study contents by breaking them int
 ## Prerequisites
 <img src = "https://github.com/aptejada/GCMicrobiome/assets/63165275/473e9cb0-32e8-4bba-a771-df83850ad699.png" width=7% height=7%>
 <img src = "https://github.com/aptejada/GCMicrobiome/assets/63165275/d9773181-20a7-4941-9ea1-553d8561faee.png" width=7% height=7%)> 
-
-<img scr = "https://github.com/aptejada/GCMicrobiome/assets/63165275/0ff330e5-c70b-4fe6-a6ef-dd24a3fc1161.png" width=7% height=7%)>
-<img scr = "https://github.com/aptejada/GCMicrobiome/assets/63165275/c5d36744-1523-4c36-99c0-9340b047ed31.png" width=7% height=7%)>
+<img src = "https://github.com/aptejada/GCMicrobiome/assets/63165275/0ff330e5-c70b-4fe6-a6ef-dd24a3fc1161.svg" width=7% height=7%)>
+<img src = "https://github.com/aptejada/GCMicrobiome/assets/63165275/c5d36744-1523-4c36-99c0-9340b047ed31.svg" width=15% height=15%)>
 
 ## Getting started
 
