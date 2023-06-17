@@ -44,8 +44,19 @@ B --> C["Visualization <br/> "using R/Python libraries""]
 
 
 >> *Environmental Data*
->
 >>
+>> <img width="1000" alt="Screen Shot 2023-06-17 at 4 52 07 PM" src="https://github.com/aptejada/GCMicrobiome/assets/63165275/3360a3db-f825-4cf2-adbf-1ffb35d0cc93">
+
+>> ##### Legend:
+>> Parameters | Abbreviation
+>> -----------|-------------
+>> Temperature|Temp
+>> Dissolved Oxygen | DO
+>> Acidity | pH
+>> Salinity | Sal
+>> Sediment trap volume or Current Velocity | Sed
+>> Total Suspended Solids | TSS
+>> Light Intensity | Flux 
 
 
 
