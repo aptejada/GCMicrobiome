@@ -9,9 +9,13 @@ Hence in this project, I aim to organize the study contents by breaking them int
 + **Output** : contains visualized data such as figures, tables, posters, and powerpoint presentation
 
 ## Prerequisites
-
++ RStudio
++ Python
++ Conda
++ QIIME2
 
 ## Getting started
+
 
 
 
