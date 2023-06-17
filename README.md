@@ -14,7 +14,15 @@ Hence in this project, I aim to organize the study contents by breaking them int
 <img src = "https://github.com/aptejada/GCMicrobiome/assets/63165275/0ff330e5-c70b-4fe6-a6ef-dd24a3fc1161.svg" width=7% height=7%)>
 <img src = "https://github.com/aptejada/GCMicrobiome/assets/63165275/c5d36744-1523-4c36-99c0-9340b047ed31.svg" width=15% height=15%)>
 
-## Getting started
+## RoadMap
+**Data**
+```mermaid
+flowchart LR;
+A["Cleaning <br/> (.xlsx or .csv file)"] --> B["Analyses <br/> (cleaned .xlsx or .csv file)"];
+B --> C["Visualization <br/> "using R/Python libraries""]
+```
+
+
 
 
 
