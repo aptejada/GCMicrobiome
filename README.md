@@ -9,8 +9,11 @@ Hence in this project, I aim to organize the study contents by breaking them int
 + **Output** : contains visualized data such as figures, tables, posters, and powerpoint presentation
 
 ## Prerequisites
-<img src = "https://github.com/aptejada/GCMicrobiome/assets/63165275/473e9cb0-32e8-4bba-a771-df83850ad699.png" width=5% height=5%>
-Python
+<img src = "https://github.com/aptejada/GCMicrobiome/assets/63165275/473e9cb0-32e8-4bba-a771-df83850ad699.png" width=7% height=7%>
+<img src = "https://github.com/aptejada/GCMicrobiome/assets/63165275/d9773181-20a7-4941-9ea1-553d8561faee.png" width=7% height=7%)> 
+
+
+
 Conda
 QIIME2
 
