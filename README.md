@@ -9,10 +9,10 @@ Hence in this project, I aim to organize the study contents by breaking them int
 + **Output** : contains visualized data such as figures, tables, posters, and powerpoint presentation
 
 ## Prerequisites
-+ RStudio
-+ Python
-+ Conda
-+ QIIME2
+<img src = "https://github.com/aptejada/GCMicrobiome/assets/63165275/473e9cb0-32e8-4bba-a771-df83850ad699.png" width=5% height=5%>
+Python
+Conda
+QIIME2
 
 ## Getting started
 
