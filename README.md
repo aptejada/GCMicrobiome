@@ -1,5 +1,10 @@
 # Giant Clam Microbiome Project
 
+
+<img width="618" height="865" alt="Screen Shot 2026-10-08 at 9 31 44 PM" src="https://github.com/user-attachments/assets/7d2ff1b8-7911-4dba-9f97-3d59215361a4" />
+
+
+
 <details>
     <summary> Table of Contents </summary>
 
